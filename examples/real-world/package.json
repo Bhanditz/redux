@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "humps": "^2.0.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.11",
     "normalizr": "^3.2.4",
     "prop-types": "^15.6.1",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1",
+    "react-dom": "^16.3.3",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.1.2",
     "redux": "^3.5.2",
